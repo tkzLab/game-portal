@@ -63,11 +63,3 @@ h2:first-of-type {
 .game-button--art:hover {
     background-color: #59339d;
 }
-
-.game-button--quiz {
-    background-color: #28a745;
-}
-
-.game-button--quiz:hover {
-    background-color: #1e7e34;
-}
